@@ -1,13 +1,4 @@
-# aws-cloud-automation-meetup-cicd
-
-## live demo
-
-[![youtube link to recorded live demo](https://img.youtube.com/vi/MAhucSzRq8o/0.jpg)](https://www.youtube.com/watch?v=MAhucSzRq8o)
-
-## AWS cloud meetup group
-https://www.meetup.com/AWS-Cloud-Automation-Group/events/270505165/?comment_table_id=266396741&comment_table_name=reply
-
-
+# aws-codepipeline-notif-terraform
 
 ## use case
 
@@ -15,7 +6,7 @@ A highly available front-end web application & API with CI/CD build system capab
 
 ## high level architecture
 
-* web application code repo: https://github.com/michel-lacle/aws-cloud-automation-meetup-cicd-application-code
+* web application code repo: https://github.com/AkhilMovva/sample_cool_webapp.git
 * cicd pipeline
 * webserver
 * vpc
