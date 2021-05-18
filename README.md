@@ -21,7 +21,7 @@ A highly available front-end web application & API with CI/CD build system capab
 
 ## development tech stack
 
-* IDE: PyCharm with Terraform Extensions(without this you will suffer)
+* Visual Studio Code with Terraform Extensions
 * Terraform.IO Cloud for automated Terraform Planning & Apply
 * Github for storing the terraform code
 
